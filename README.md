@@ -1,2 +1,1 @@
-# MarkdownStaticSiteGenerator
-Generates simple websites using markdown
+# My personal website
