@@ -1,6 +1,6 @@
 body {
     margin: auto;
-    width: 40%;
+    width: 300px;
     background-color: #0f1414;
     padding: 60px;
     color: #d0ffd1;
@@ -8,7 +8,15 @@ body {
 
 div {
     background-color: #0d1111;
-    padding: 10px;
+    padding: 4%;
+}
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
 }
 
 h1 {
